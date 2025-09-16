@@ -6,3 +6,4 @@ template Multiplier() {
     c <== a * b;
 }
 component main = Multiplier();
+⚡ ZK Circuits Template: Multiplier ready for proof generation!
